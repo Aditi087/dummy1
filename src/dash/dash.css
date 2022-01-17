@@ -1,0 +1,14 @@
+#dash{
+    background-image: linear-gradient(to bottom right, rgb(34, 5, 104),rgb(16, 6, 112), rgb(25, 75, 151),rgb(76, 120, 179),rgb(82, 116, 161));
+    height: 750px;
+}
+
+#d-head{
+    color: whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+#d-info{
+    color: whitesmoke;
+    margin: 20px;
+}

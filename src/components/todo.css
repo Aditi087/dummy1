@@ -1,0 +1,60 @@
+#todo {
+    
+  margin: 80px;
+  margin-left: 620px;
+  box-sizing: border-box; transition: 400ms;
+  width: 100%;
+  height: max-content;
+  max-width: 300px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(2px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-right-color: rgba(255, 255, 255, 0.1);
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  padding-bottom: 30px;
+  
+ 
+
+}
+
+#add-item{
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, 0.1);
+    box-sizing: border-box; 
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    width: fit-content;
+    padding: 5px;
+    margin-left: 30px;
+    
+    
+}
+#add-item input{
+    background-color: transparent;
+    border:none
+}
+#add-item input::placeholder{
+    color: rgb(204, 201, 201);
+}
+
+#add-item i{
+    color: rgb(204, 201, 201);
+}
+#add-item input:not(span) {
+    
+    
+    border: none;
+    outline: none;
+    
+    
+}
+#list{
+    color: whitesmoke;
+}
+.add-btn:hover{
+    color: rgb(68, 133, 163)!important;
+}

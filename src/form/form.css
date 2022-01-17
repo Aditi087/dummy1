@@ -1,0 +1,29 @@
+#lgin{
+    margin-top: 100px;
+}
+#gbtn{
+    background-color: rgb(6, 118, 170);
+    border-color: transparent;
+    color: whitesmoke;
+    font-weight: bold;
+    margin: 10px;
+    margin-top: 0px;
+    width: 40%;
+    height: 30px;
+    margin-left: 140px;
+}
+#fbtn{
+    background-color: rgb(6, 22, 170);
+    border-color: transparent;
+    color: whitesmoke;
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 40%;
+    height: 30px;
+    margin-left: 140px;
+}
+#sgnup{
+    margin-top: 100px;
+    width: 500px;
+    margin-left: 400px;
+}
